@@ -1,0 +1,86 @@
+body{
+    background: #efeee7;
+}
+
+header{
+    position: fixed;
+    left: 0;
+    top: 0;
+    margin-bottom: 0;
+    background: white;
+    width: 100%;
+
+}
+
+.underline{
+    border-bottom: solid #e0d8ce;
+}
+
+.titlecolor{
+    color: #4aaaa5;
+}
+
+.list{
+    position: absolute;
+    right: 50px;
+    font-size: 20px;
+    top: 50px;
+}
+
+.name {
+    position: relative;
+    left: 30px;
+    background: #4aaaa5;
+    width: 250px;
+    margin: 50px;
+    text-align: center;
+    color: white;
+}
+
+.aboutme{
+    clear: both;
+    background: white;
+    width: 50%;
+    margin: 50px;
+    padding: 10px 10px 10px 50px;
+    position: relative;
+    top: 150px;
+    float: left;
+}
+
+.myimg{
+    float: left;
+}
+
+.connectwithme{
+    background: white;
+    width: 25%;
+    margin: 50px;
+    position: relative;
+    top: 150px;
+    text-align: center;
+    float: left;
+    padding: 10px;
+
+}
+
+.github, .linkedin, .stack {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    float: left;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    background: darkgray;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    padding: 40px;
+    border-top: solid 10px #4aaaa5;
+
+
+}
