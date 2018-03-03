@@ -64,13 +64,14 @@ a:link, a:visited{
 .aboutme, .contact, .portfolio{
     clear: both;
     background: white;
-    width: 650px;
+    width: 750px;
     padding: 50px;
     position: relative;
     left: 30px;
     top: 150px;
     float: left;
     border: solid 2px #dddddd;
+    margin: 0;
 }
 
 .hangman, .rpg, .trivia, .rutgers, .rock{
@@ -112,7 +113,7 @@ a:link, a:visited{
     padding: 10px;
     position: relative;
     top: 150px;
-    left: 60px;
+    left: 80px;
     text-align: center;
     float: left;
     border: solid 2px #dddddd;
@@ -138,6 +139,4 @@ footer{
     line-height: 50px;
     border-top: solid 10px #4aaaa5;
     font-size: 10px;
-
-
 }
